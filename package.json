@@ -1,6 +1,6 @@
 {
   "name": "math-float32-signbit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a boolean indicating if the sign bit for a single-precision floating-point number is on (true) or off (false).",
   "author": {
     "name": "Athan Reines",
