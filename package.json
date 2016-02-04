@@ -50,7 +50,7 @@
     "url": "https://github.com/math-io/float32-signbit/issues"
   },
   "dependencies": {
-    "math-float32-to-word": "git+https://github.com/math-io/float32-to-word.git"
+    "math-float32-to-word": "^1.0.0"
   },
   "devDependencies": {
     "browserify": "12.x.x",
